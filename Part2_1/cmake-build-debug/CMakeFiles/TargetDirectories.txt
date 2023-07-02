@@ -1,0 +1,3 @@
+/home/qqb/All_Project/Mosh/C++/CPP/Part2/cmake-build-debug/CMakeFiles/Part2.dir
+/home/qqb/All_Project/Mosh/C++/CPP/Part2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/qqb/All_Project/Mosh/C++/CPP/Part2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
